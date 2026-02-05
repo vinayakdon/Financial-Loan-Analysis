@@ -93,10 +93,10 @@ https://your-streamlit-app-link
 ![Dashboard Overview](Dashboard.png)
 
 #### Loan Trends Analysis
-![Loan Trends](trends)
+![Loan Trends](trends.png)
 
 #### Loan Status Distribution
-![Loan Status Distribution](bars)
+![Loan Status Distribution](bars.png)
 
 > 📌 *Note:* Ensure all dashboard screenshots are stored inside the `images/` folder and filenames match the paths above.
 
