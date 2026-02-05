@@ -106,7 +106,7 @@ An interactive Streamlit dashboard was created to visualize key insights from th
 Access the complete project source code and analysis here:
 
 🔗 **GitHub Link:**  
-[https://github.com/your-username/your-repo-name](https://github.com/vinayakdon/Financial-Loan-Analysis)
+[https://github.com/vinayakdon/Financial-Loan-Analysis](https://github.com/vinayakdon/Financial-Loan-Analysis)
 
 ---
 
