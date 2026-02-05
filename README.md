@@ -106,7 +106,7 @@ https://your-streamlit-app-link
 Access the complete project source code and analysis here:
 
 🔗 **GitHub Link:**  
-https://github.com/your-username/your-repo-name
+[https://github.com/your-username/your-repo-name](https://github.com/vinayakdon/Financial-Loan-Analysis)
 
 ---
 
