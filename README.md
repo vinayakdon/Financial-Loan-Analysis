@@ -83,7 +83,7 @@ These insights help financial institutions enhance risk assessment, portfolio mo
 An interactive Streamlit dashboard was created to visualize key insights from the loan dataset.
 
 🔗 **Dashboard Link:**  
-[https://your-streamlit-app-link](https://financialloananalysis.streamlit.app)
+[https://financialloananalysis.streamlit.app](https://financialloananalysis.streamlit.app)
 
 ---
 
